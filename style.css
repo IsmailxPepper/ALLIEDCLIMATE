@@ -1,0 +1,6 @@
+
+body{margin:0;font-family:Segoe UI;background:linear-gradient(135deg,#08111f,#17376d);color:#fff}
+header{text-align:center;padding:20px}.container{max-width:1200px;margin:auto;padding:20px}
+.card,.city{background:rgba(255,255,255,.12);backdrop-filter:blur(12px);padding:15px;border-radius:18px;margin-top:15px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+input,button{padding:12px;border-radius:12px;border:none} button{cursor:pointer}
